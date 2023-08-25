@@ -13,7 +13,9 @@ const Home = () => {
         <Link to="/counter" className="home-button">
           Counter
         </Link>
-      
+        <Link to="/chart" className="home-button">
+          Chart
+        </Link>
       </div>
     </div>
   );

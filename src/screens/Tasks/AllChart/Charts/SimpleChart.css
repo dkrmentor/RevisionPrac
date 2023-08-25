@@ -1,0 +1,16 @@
+/* SimpleChart.module.css */
+.chartContainer {
+    background: radial-gradient(
+      50% 50% at 50% 50%,
+      rgba(113, 216, 117, 0.35) 0%,
+      rgba(0, 150, 199, 0) 85.42%
+    );
+    border-radius: 10px;
+    box-shadow: 2px 2px 25px #00000040;
+    height: 248px;
+    position: relative;
+    width: 328px;
+    /* Add more styles or adjust as needed */
+  }
+  /* Add more styles or adjust as needed */
+  
